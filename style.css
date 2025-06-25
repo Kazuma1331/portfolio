@@ -66,6 +66,10 @@ h2 {
 h3 {
 	margin-top: 50px;
 }
+.flex div {
+	margin-left:10px;
+	margin-right: 10px;
+}
 /*footer-------------------------------------------------------*/
 footer {
 	text-align: center;
