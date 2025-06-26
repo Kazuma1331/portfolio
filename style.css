@@ -59,6 +59,9 @@ main {
 #contact {
 	line-height: 2;
 }
+h1 {
+	text-align: center;
+}
 h2 {
 	margin: 100px;
 	text-decoration: underline;
